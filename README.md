@@ -20,7 +20,7 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-https://github.com/arthurschmeling/lightSahur/edit/main/interruptor_simples/assets/img/sahur.png
+(https://github.com/arthurschmeling/lightSahur/blob/main/interruptor_simples/assets/img/sahur.png?raw=true)
 
 ---
 
