@@ -20,13 +20,13 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-![Luz apagada](img/lampada-apagada.png)
+![Luz apagada](img/lampadaApagada.png)
 
 ---
 
 ## 💡 Luz acesa
 
-
+![Luz apagada](img/luz.png)
 
 ---
 
