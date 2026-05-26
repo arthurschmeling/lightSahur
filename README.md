@@ -20,15 +20,12 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-![Luz apagada](/interruptor_simples/assets
-/img/sahur.png)
+https://github.com/arthurschmeling/lightSahur/edit/main/interruptor_simples/assets/img/sahur.png
 
 ---
 
 ## 💡 Luz acesa
 
-![Luz apagada](/interruptor_simples/assets
-/img/tung)
 
 ---
 
