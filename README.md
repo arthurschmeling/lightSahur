@@ -20,13 +20,15 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-![Luz apagada](assets/img/luzApagada.png)
+![Luz apagada](/interruptor_simples/assets
+/img/sahur.png)
 
 ---
 
 ## 💡 Luz acesa
 
-![Luz apagada](assets/img/luz.png)
+![Luz apagada](/interruptor_simples/assets
+/img/tung)
 
 ---
 
