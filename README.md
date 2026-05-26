@@ -18,18 +18,18 @@ Ideal para estudos de:
 
 # 🖼️ Demonstração
 
-## 🌑 Luz apagada
+## 💡 Luz acesa
 
 <img width="1402" height="1122" alt="tung" src="https://github.com/user-attachments/assets/c0ef1401-c239-4b0b-b6f0-22aebc6f447a" />
 
 
 ---
 
-## 💡 Luz acesa
+## 🌑 Luz apagada
 
 <img width="1402" height="1122" alt="sahur" src="https://github.com/user-attachments/assets/b7a9c5c0-7d07-426e-8b45-52ed3db56492" />
 ---
-
+## 💡 Luz acesa
 # 🚀 Tecnologias Utilizadas
 
 - HTML5
