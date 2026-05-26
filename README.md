@@ -20,7 +20,7 @@ Ideal para estudos de:
 
 ## 🌑 Luz apagada
 
-![Luz apagada](img/lampadaApagada.png)
+![Luz apagada](img/luzApagada.png)
 
 ---
 
